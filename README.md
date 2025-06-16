@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Linkedin OpsKit
+> Find out everything you need to know to reliably scrape Linkedin with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/linkedin)
+
+This kit provides the blueprint for Linkedin scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-linkedin-scrapers)
 - [Scrapers By Language](#linkedin-scrapers-by-language)
@@ -36,41 +47,40 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-linkedin-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [linkedin_scraper](https://github.com/joeyism/linkedin_scraper) ![img](https://github.com/joeyism.png?size=20) | python | ⭐ 2467 | ✅ Yes | 2024-12-13 | ✅ |
-| [JobSpy](https://github.com/speedyapply/JobSpy) ![img](https://github.com/speedyapply.png?size=20) | python | ⭐ 1559 | ✅ Yes | 2025-04-10 | ✅ |
-| [linkedin](https://github.com/eracle/linkedin) ![img](https://github.com/eracle.png?size=20) | python | ⭐ 884 | ✅ Yes | 2025-05-02 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [linkedin_scraper](https://github.com/joeyism/linkedin_scraper) ![img](https://github.com/joeyism.png?size=20) | python | ⭐ 2467 | ❌ No | 2024-12-13 |
+| [JobSpy](https://github.com/speedyapply/JobSpy) ![img](https://github.com/speedyapply.png?size=20) | python | ⭐ 1559 | ✅ Yes | 2025-04-10 |
+| [linkedin](https://github.com/eracle/linkedin) ![img](https://github.com/eracle.png?size=20) | python | ⭐ 884 | ✅ Yes | 2025-05-02 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Linkedin Scrapers By Language <a id="linkedin-scrapers-by-language"></a>
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [linkedin_scraper](https://github.com/joeyism/linkedin_scraper) | ⭐ 2467 | 2024-12-13 | professional | ❌ No |
+| [JobSpy](https://github.com/speedyapply/JobSpy) | ⭐ 1559 | 2025-04-10 | professional | ✅ Yes |
+| [linkedin](https://github.com/eracle/linkedin) | ⭐ 884 | 2025-05-02 | professional | ✅ Yes |
+| [LinkedInt](https://github.com/mdsecactivebreach/LinkedInt) | ⭐ 483 | 2023-05-23 | immediate | ❌ No |
+| [py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) | ⭐ 410 | 2025-03-14 | immediate | ✅ Yes |
+| [linkedin-scraper](https://github.com/lanatenet192/linkedin-scraper) | ⭐ 160 | 2025-04-27 | professional | ✅ Yes |
+| [Linkedin_Google_ProfileScraper](https://github.com/jjensen1/Linkedin_Google_ProfileScraper) | ⭐ 34 | 2021-03-22 | professional | ❌ No |
+
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [linkedin-profile-scraper-api](https://github.com/josephlimtech/linkedin-profile-scraper-api) | ⭐ 633 | 2024-04-05 | — | ✅ Yes |
-| [scrapedin](https://github.com/linkedtales/scrapedin) | ⭐ 605 | 2023-02-28 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [linkedin_scraper](https://github.com/joeyism/linkedin_scraper) | ⭐ 2467 | 2024-12-13 | — | ✅ Yes |
-| [JobSpy](https://github.com/speedyapply/JobSpy) | ⭐ 1559 | 2025-04-10 | — | ✅ Yes |
-| [linkedin](https://github.com/eracle/linkedin) | ⭐ 884 | 2025-05-02 | — | ✅ Yes |
-| [LinkedInt](https://github.com/mdsecactivebreach/LinkedInt) | ⭐ 483 | 2023-05-23 | — | ✅ Yes |
-| [py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) | ⭐ 410 | 2025-03-14 | — | ✅ Yes |
-| [linkedin-scraper](https://github.com/lanatenet192/linkedin-scraper) | ⭐ 160 | 2025-04-27 | — | ✅ Yes |
-| [Linkedin_Google_ProfileScraper](https://github.com/jjensen1/Linkedin_Google_ProfileScraper) | ⭐ 34 | 2021-03-22 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [linkedin-profile-scraper-api](https://github.com/josephlimtech/linkedin-profile-scraper-api) | ⭐ 633 | 2024-04-05 | professional | ❌ No |
+| [scrapedin](https://github.com/linkedtales/scrapedin) | ⭐ 605 | 2023-02-28 | professional | ❌ No |
 
 
 ### Ruby
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [linkedin-scraper](https://github.com/yatish27/linkedin-scraper) | ⭐ 557 | 2024-04-17 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [linkedin-scraper](https://github.com/yatish27/linkedin-scraper) | ⭐ 557 | 2024-04-17 | professional | ❌ No |
 
 ---
 
@@ -101,7 +111,7 @@ Know a Linkedin scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
