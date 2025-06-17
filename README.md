@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Linkedin OpsKit
-> Find out everything you need to know to reliably scrape Linkedin with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/linkedin)
+> Find out everything you need to know to reliably scrape Linkedin with our new tool: [Ops Kit](https://scrapeops.io/websites/linkedin)
 
 This kit provides the blueprint for Linkedin scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -99,7 +99,7 @@ This kit provides the blueprint for Linkedin scraping operations:
 ---
 
 ## 🧠 Linkedin Tutorials & How-Tos<a id="linkedin-tutorials"></a>
-- 📘 [How to Scrape Linkedin at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-linkedin/)
+- 📘 [How to Scrape Linkedin at Scale](https://scrapeops.io/websites/linkedin/how-to-scrape-linkedin)
 - 🔐 [Web Scraping Linkedin Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
